@@ -47,6 +47,12 @@ fmt.Println(s)
 
 Nothing the user has to worry about, however it should be noted that PkgGo uses goquery for pretty much every function. Goquery can be found [here](https://pkg.go.dev/github.com/PuerkitoBio/goquery).
 
+## Todo
+
+- Make PackageLink more customizable (change how many results are returned)
+- Grab package data, such as descriptions, versions, etc
+- There's probably more, just can't think of anything else right now.
+
 ## License
 
 I call it the "Do what you want" License. Do whatever you want to do with my code, I do not mind.
